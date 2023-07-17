@@ -1,0 +1,17 @@
+D:\.net\BAD\BAD task\bin\Debug\net6.0-windows\BAD task.exe
+D:\.net\BAD\BAD task\bin\Debug\net6.0-windows\BAD task.deps.json
+D:\.net\BAD\BAD task\bin\Debug\net6.0-windows\BAD task.runtimeconfig.json
+D:\.net\BAD\BAD task\bin\Debug\net6.0-windows\BAD task.dll
+D:\.net\BAD\BAD task\bin\Debug\net6.0-windows\BAD task.pdb
+D:\.net\BAD\BAD task\obj\Debug\net6.0-windows\BAD task.csproj.AssemblyReference.cache
+D:\.net\BAD\BAD task\obj\Debug\net6.0-windows\BAD_task.Form1.resources
+D:\.net\BAD\BAD task\obj\Debug\net6.0-windows\BAD task.csproj.GenerateResource.cache
+D:\.net\BAD\BAD task\obj\Debug\net6.0-windows\BAD task.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net\BAD\BAD task\obj\Debug\net6.0-windows\BAD task.AssemblyInfoInputs.cache
+D:\.net\BAD\BAD task\obj\Debug\net6.0-windows\BAD task.AssemblyInfo.cs
+D:\.net\BAD\BAD task\obj\Debug\net6.0-windows\BAD task.csproj.CoreCompileInputs.cache
+D:\.net\BAD\BAD task\obj\Debug\net6.0-windows\BAD task.dll
+D:\.net\BAD\BAD task\obj\Debug\net6.0-windows\refint\BAD task.dll
+D:\.net\BAD\BAD task\obj\Debug\net6.0-windows\BAD task.pdb
+D:\.net\BAD\BAD task\obj\Debug\net6.0-windows\BAD task.genruntimeconfig.cache
+D:\.net\BAD\BAD task\obj\Debug\net6.0-windows\ref\BAD task.dll
