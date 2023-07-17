@@ -31,7 +31,7 @@ To use the application, follow these steps:
 
 1. Clone or download the repository to your local machine.
 2. Navigate to the location where the application is located.
-3. Open the executable file `BAD task.exe` located in `D:\.net\BAD\BAD task\bin\Debug\net6.0-windows\`.
+3. Open the executable file `BAD task.exe` located in `...\BAD task\bin\Debug\net6.0-windows\`.
 4. The application window will open.
 5. Enter the text into the textbox.
 6. Click the start button to initiate the algorithm.
