@@ -36,20 +36,20 @@ namespace BAD_task
         }
 
         
-
         private char FindFirstUniqueCharInWord(string word)
         {
-            HashSet<char> visitedChars = new HashSet<char>();
-            foreach (char c in word)
+            for (int i = 0; i < word.Length; i++)
             {
-                if (!visitedChars.Contains(c) && word.IndexOf(c, word.IndexOf(c) + 1) == -1)
+                char currentChar = word[i];
+
+                if (word.IndexOf(currentChar, i + 1) == -1 && word.IndexOf(currentChar) == i)
                 {
-                    return c;
+                    return currentChar;
                 }
-                visitedChars.Add(c);
             }
 
             return ' ';
         }
+       
     }
 }
